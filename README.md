@@ -29,6 +29,4 @@ Para ver o projeto funcionando, basta seguir estes passos:
 
 ---
 
-## Contribuição (Opcional)
-
 

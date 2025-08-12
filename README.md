@@ -31,9 +31,4 @@ Para ver o projeto funcionando, basta seguir estes passos:
 
 ## Contribuição (Opcional)
 
-Se você quiser, pode usar este projeto como base para seus próprios estudos. Fique à vontade para fazer as seguintes melhorias:
 
-* Adicionar mais informações sobre cada maravilha.
-* Trocar as imagens placeholder por fotos reais.
-* Criar um menu de navegação que leve a cada seção.
-* Melhorar ainda mais o design com CSS.
